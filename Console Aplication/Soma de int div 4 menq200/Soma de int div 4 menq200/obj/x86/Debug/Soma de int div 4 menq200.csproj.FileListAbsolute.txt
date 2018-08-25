@@ -1,0 +1,4 @@
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma de int div 4 menq200\Soma de int div 4 menq200\bin\Debug\Soma de int div 4 menq200.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma de int div 4 menq200\Soma de int div 4 menq200\bin\Debug\Soma de int div 4 menq200.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma de int div 4 menq200\Soma de int div 4 menq200\obj\x86\Debug\Soma de int div 4 menq200.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma de int div 4 menq200\Soma de int div 4 menq200\obj\x86\Debug\Soma de int div 4 menq200.pdb

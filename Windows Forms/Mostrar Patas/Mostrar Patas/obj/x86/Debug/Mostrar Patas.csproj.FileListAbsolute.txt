@@ -1,0 +1,7 @@
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\Mostrar Patas\Mostrar Patas\bin\Debug\Mostrar Patas.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\Mostrar Patas\Mostrar Patas\bin\Debug\Mostrar Patas.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\Mostrar Patas\Mostrar Patas\obj\x86\Debug\WindowsFormsApplication1.frmMostPat.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\Mostrar Patas\Mostrar Patas\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\Mostrar Patas\Mostrar Patas\obj\x86\Debug\Mostrar Patas.csproj.GenerateResource.Cache
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\Mostrar Patas\Mostrar Patas\obj\x86\Debug\Mostrar Patas.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\Mostrar Patas\Mostrar Patas\obj\x86\Debug\Mostrar Patas.pdb

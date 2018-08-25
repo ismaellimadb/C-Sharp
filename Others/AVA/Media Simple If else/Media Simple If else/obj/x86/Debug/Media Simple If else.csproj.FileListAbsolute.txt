@@ -1,0 +1,7 @@
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Media Simple If else\Media Simple If else\bin\Debug\Media Simple If else.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Media Simple If else\Media Simple If else\bin\Debug\Media Simple If else.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Media Simple If else\Media Simple If else\obj\x86\Debug\WindowsFormsApplication1.frmMedia.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Media Simple If else\Media Simple If else\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Media Simple If else\Media Simple If else\obj\x86\Debug\Media Simple If else.csproj.GenerateResource.Cache
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Media Simple If else\Media Simple If else\obj\x86\Debug\Media Simple If else.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Media Simple If else\Media Simple If else\obj\x86\Debug\Media Simple If else.pdb

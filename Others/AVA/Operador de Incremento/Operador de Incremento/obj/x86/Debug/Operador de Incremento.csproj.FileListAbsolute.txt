@@ -1,0 +1,7 @@
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Operador de Incremento\Operador de Incremento\bin\Debug\Operador de Incremento.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Operador de Incremento\Operador de Incremento\bin\Debug\Operador de Incremento.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Operador de Incremento\Operador de Incremento\obj\x86\Debug\WindowsFormsApplication1.frmOpInc.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Operador de Incremento\Operador de Incremento\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Operador de Incremento\Operador de Incremento\obj\x86\Debug\Operador de Incremento.csproj.GenerateResource.Cache
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Operador de Incremento\Operador de Incremento\obj\x86\Debug\Operador de Incremento.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Others\AVA\Operador de Incremento\Operador de Incremento\obj\x86\Debug\Operador de Incremento.pdb

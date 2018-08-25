@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma e divisao de divs de 3 e 4", "Soma e divisao de divs de 3 e 4\Soma e divisao de divs de 3 e 4.csproj", "{44AFFBA8-E3E8-44FC-8484-ABF81CD35752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AFFBA8-E3E8-44FC-8484-ABF81CD35752}.Debug|x86.ActiveCfg = Debug|x86
+		{44AFFBA8-E3E8-44FC-8484-ABF81CD35752}.Debug|x86.Build.0 = Debug|x86
+		{44AFFBA8-E3E8-44FC-8484-ABF81CD35752}.Release|x86.ActiveCfg = Release|x86
+		{44AFFBA8-E3E8-44FC-8484-ABF81CD35752}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

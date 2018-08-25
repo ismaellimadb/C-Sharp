@@ -1,0 +1,22 @@
+C:\Users\ismaelblck01\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ismaelblck01\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ismaelblck01\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmAluno.resources
+C:\Users\ismaelblck01\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmAula.resources
+C:\Users\ismaelblck01\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
+C:\Users\ismaelblck01\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmProfessor.resources
+C:\Users\ismaelblck01\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ismaelblck01\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ProjEscola.csproj.GenerateResource.Cache
+C:\Users\ismaelblck01\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ismaelblck01\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\bin\Debug\ProjEscola.exe.config
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\bin\Debug\DBCadastrarAula.sdf
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\bin\Debug\ProjEscola.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\bin\Debug\ProjEscola.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\obj\x86\Debug\WindowsFormsApplication1.frmAluno.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\obj\x86\Debug\WindowsFormsApplication1.frmAula.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\obj\x86\Debug\WindowsFormsApplication1.frmProfessor.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\obj\x86\Debug\ProjEscola.csproj.GenerateResource.Cache
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\obj\x86\Debug\ProjEscola.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Windows Forms\ProjEscola\ProjEscola\obj\x86\Debug\ProjEscola.pdb

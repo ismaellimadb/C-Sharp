@@ -1,0 +1,4 @@
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Função Recursiva Loop\Função Recursiva Loop\bin\Debug\Função Recursiva Loop.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Função Recursiva Loop\Função Recursiva Loop\bin\Debug\Função Recursiva Loop.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Função Recursiva Loop\Função Recursiva Loop\obj\x86\Debug\Função Recursiva Loop.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Função Recursiva Loop\Função Recursiva Loop\obj\x86\Debug\Função Recursiva Loop.pdb

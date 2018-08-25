@@ -1,0 +1,4 @@
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma dos Quadrados\Soma dos Quadrados\bin\Debug\Soma dos Quadrados.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma dos Quadrados\Soma dos Quadrados\bin\Debug\Soma dos Quadrados.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma dos Quadrados\Soma dos Quadrados\obj\x86\Debug\Soma dos Quadrados.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma dos Quadrados\Soma dos Quadrados\obj\x86\Debug\Soma dos Quadrados.pdb

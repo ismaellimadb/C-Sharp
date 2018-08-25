@@ -1,0 +1,4 @@
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma de divsde4e3 mensq400\Soma de divsde4e3 mensq400\bin\Debug\Soma de divsde4e3 mensq400.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma de divsde4e3 mensq400\Soma de divsde4e3 mensq400\bin\Debug\Soma de divsde4e3 mensq400.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma de divsde4e3 mensq400\Soma de divsde4e3 mensq400\obj\x86\Debug\Soma de divsde4e3 mensq400.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Soma de divsde4e3 mensq400\Soma de divsde4e3 mensq400\obj\x86\Debug\Soma de divsde4e3 mensq400.pdb

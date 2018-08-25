@@ -1,0 +1,4 @@
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Dias da Semana Switch Case\Dias da Semana Switch Case\bin\Debug\Dias da Semana Switch Case.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Dias da Semana Switch Case\Dias da Semana Switch Case\bin\Debug\Dias da Semana Switch Case.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Dias da Semana Switch Case\Dias da Semana Switch Case\obj\x86\Debug\Dias da Semana Switch Case.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Dias da Semana Switch Case\Dias da Semana Switch Case\obj\x86\Debug\Dias da Semana Switch Case.pdb

@@ -1,0 +1,4 @@
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Tabuada Informada - Função\Tabuada Informada - Função\bin\Debug\Tabuada Informada - Função.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Tabuada Informada - Função\Tabuada Informada - Função\bin\Debug\Tabuada Informada - Função.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Tabuada Informada - Função\Tabuada Informada - Função\obj\x86\Debug\Tabuada Informada - Função.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Tabuada Informada - Função\Tabuada Informada - Função\obj\x86\Debug\Tabuada Informada - Função.pdb

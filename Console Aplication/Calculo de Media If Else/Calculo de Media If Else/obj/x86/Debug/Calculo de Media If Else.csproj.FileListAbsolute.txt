@@ -1,0 +1,4 @@
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Calculo de Media If Else\Calculo de Media If Else\bin\Debug\Calculo de Media If Else.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Calculo de Media If Else\Calculo de Media If Else\bin\Debug\Calculo de Media If Else.pdb
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Calculo de Media If Else\Calculo de Media If Else\obj\x86\Debug\Calculo de Media If Else.exe
+C:\Users\ismaelblck01\Desktop\Crosslink\School\Uninove\Terceiro Semestre\Programação Visual (C#)\Console Aplication\Calculo de Media If Else\Calculo de Media If Else\obj\x86\Debug\Calculo de Media If Else.pdb
